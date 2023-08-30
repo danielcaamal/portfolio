@@ -19,3 +19,18 @@
 [submodule "portfolio-10-algorithms"]
 	path = portfolio-10-algorithms
 	url = git@github.com:danielcaamal/portfolio-10-algorithms.git
+[submodule "portfolio-00-various-courses"]
+	path = portfolio-00-various-courses
+	url = git@github.com:danielcaamal/portfolio-00-various-courses.git
+[submodule "portfolio-01-basic-backend-projects"]
+	path = portfolio-01-basic-backend-projects
+	url = git@github.com:danielcaamal/portfolio-01-basic-backend-projects.git
+[submodule "portfolio-02-basic-flutter-projects"]
+	path = portfolio-02-basic-flutter-projects
+	url = git@github.com:danielcaamal/portfolio-02-basic-flutter-projects.git
+[submodule "portfolio-03-webserver-restserver"]
+	path = portfolio-03-webserver-restserver
+	url = git@github.com:danielcaamal/portfolio-03-webserver-restserver.git
+[submodule "portfolio-03-socket-server"]
+	path = portfolio-03-socket-server
+	url = git@github.com:danielcaamal/portfolio-03-socket-server.git
