@@ -1,0 +1,21 @@
+[submodule "portfolio-04-react-gif-expert-app"]
+	path = portfolio-04-react-gif-expert-app
+	url = git@github.com:danielcaamal/portfolio-04-react-gif-expert-app.git
+[submodule "portfolio-05-react-hooks-app"]
+	path = portfolio-05-react-hooks-app
+	url = git@github.com:danielcaamal/portfolio-05-react-hooks-app.git
+[submodule "portfolio-06-react-heroes-spa"]
+	path = portfolio-06-react-heroes-spa
+	url = git@github.com:danielcaamal/portfolio-06-react-heroes-spa.git
+[submodule "portfolio-07-react-journal-app"]
+	path = portfolio-07-react-journal-app
+	url = git@github.com:danielcaamal/portfolio-07-react-journal-app.git
+[submodule "portfolio-08-mern-calendar-app"]
+	path = portfolio-08-mern-calendar-app
+	url = git@github.com:danielcaamal/portfolio-08-mern-calendar-app.git
+[submodule "portfolio-09-wallet-app"]
+	path = portfolio-09-wallet-app
+	url = git@github.com:danielcaamal/portfolio-09-wallet-app.git
+[submodule "portfolio-10-algorithms"]
+	path = portfolio-10-algorithms
+	url = git@github.com:danielcaamal/portfolio-10-algorithms.git
